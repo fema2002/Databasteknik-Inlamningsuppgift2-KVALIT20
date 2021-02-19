@@ -1,0 +1,24 @@
+.div_bg {
+    width: 100%;
+    height: 400px;
+    background-image: url('/Databas/Webshop/images/theater.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+  }
+  .team-member img {
+    width: 14rem;
+    height: 14rem;
+    border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+.mr-auto,
+.mx-auto {
+  margin-right: auto !important;
+}
+.ml-auto,
+.mx-auto {
+  margin-left: auto !important;
+}
